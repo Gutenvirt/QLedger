@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="QLedger 4\QLedger 4.vbproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QLedger 4\My Project\Resources.resx">
+    <Files>
+      <File FileName="QLedger 4\My Project\Resources.resx" Line="5" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
